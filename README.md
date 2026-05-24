@@ -107,13 +107,12 @@ Current focus areas:
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=matthewubundi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Matthew's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewubundi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Matthew's top languages" />
-
-  <br />
-  <br />
-
   <img src="https://github-profile-trophy.vercel.app/?username=matthewubundi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+
+  <br />
+  <br />
+
+  <strong>The useful signal is in the pinned repositories and contribution graph below: current public work, practical AI tools, and the systems I am actively shaping.</strong>
 
 </div>
 
